@@ -1,0 +1,12 @@
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\bin\Debug\PassaParola3.exe.config
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\bin\Debug\PassaParola3.exe
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\bin\Debug\PassaParola3.pdb
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola.csprojAssemblyReference.cache
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.Form1.resources
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.gerisayim.resources
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.Properties.Resources.resources
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.SoruEkleme.resources
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola.csproj.GenerateResource.cache
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola.csproj.CoreCompileInputs.cache
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.exe
+C:\Users\EmrullaH\Documents\GitHub\PassaParola\PassaParola3\PassaParola3\obj\Debug\PassaParola3.pdb
